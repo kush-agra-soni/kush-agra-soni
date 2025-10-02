@@ -6,7 +6,21 @@
 - I am building personal AI SLM coz your brain is messy, and tech should match the chaos, not sanitize it like a corporate bot.
 - My brain is busy with LLMs — in AI, “large” isn’t a flex, it’s survival. Anyone who says otherwise is probably debugging regex.
 
-![Alt text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1sbWFzaHR5emp0cXd3MmQzeDN1MXgwZDZ0Y3hrb21yN2hzMzNjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r2mtDhlCkUsjtHS7lU/giphy.gif) | *My theory:* AI isn’t stealing jobs from mechanics or painters — if you’re scared, learn mortar mixing instead of posting panic threads.
+<table>
+<tr>
+<td>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1sbWFzaHR5emp0cXd3MmQzeDN1MXgwZDZ0Y3hrb21yN2hzMzNjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r2mtDhlCkUsjtHS7lU/giphy.gif" width="200px">
+
+</td>
+<td>
+
+*My theory:* AI isn’t stealing jobs from mechanics or painters — if you’re scared, learn mortar mixing instead of posting panic threads.
+
+</td>
+</tr>
+</table>
+
 
 
 ---
