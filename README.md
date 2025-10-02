@@ -8,6 +8,10 @@
 - *My theory:* AI isn’t stealing jobs from mechanics or painters — if you’re scared, learn mortar mixing instead of posting panic threads.
 
 ---
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FE9920?style=plastic&logo=huggingface&logoColor=white)](https://huggingface.co/)  
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
+[![Polars](https://img.shields.io/badge/Polars-2BBCD3?style=plastic&logo=polars&logoColor=white)](https://www.pola.rs/)  
+[![ONNX](https://img.shields.io/badge/ONNX-000000?style=plastic&logo=onnx&logoColor=white)](https://onnx.ai/)
 
 
 # 모 Tech Stack
