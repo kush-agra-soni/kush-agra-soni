@@ -1,4 +1,6 @@
-# ♦ About this guy in "BLUE" suit
+<div>
+  <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="ks" /> ♦ About this guy in "BLUE" suit </h1>
+<div>
 
 - Right now, learning new tech everyday because the moment you got comfortable you will get smacked with a stick.
 - Ask me about Data "I ignore 99% of messages faster than recruiters did ignore resumes but i will surely reply yours".
@@ -59,20 +61,9 @@
 
 # </> GitHub Stats
 
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kush-agra-soni&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width:100%; height:auto;">
-</td>
-<td width="50%" align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=kush-agra-soni&theme=blueberry&hide_border=false" alt="Streak Stats" style="max-width:100%; height:auto;">
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
+| GitHub Stats | Streak Stats |
+| :---: | :---: |
+| ![](https://github-readme-stats.vercel.app/api?username=kush-agra-soni&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=kush-agra-soni&theme=blueberry&hide_border=false) |
 
 <br/>
 
