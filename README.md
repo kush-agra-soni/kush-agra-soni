@@ -55,16 +55,17 @@
 [![DuckDB](https://img.shields.io/badge/DuckDB-0033CC?style=plastic&logo=duckdb&logoColor=white)](https://duckdb.org/)
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF4500?style=plastic&logo=llama&logoColor=white)](https://gpt-index.readthedocs.io/en/latest/)
 
-<br/>
-
 # </> GitHub Stats
 
 | GitHub Stats | Streak Stats |
 | :---: | :---: |
 | ![](https://github-readme-stats.vercel.app/api?username=kush-agra-soni&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=kush-agra-soni&theme=blueberry&hide_border=false) |
 
-<br/>
-
 # ♠ GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=kush-agra-soni&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+# 〽 Github Graph
+<a href="https://github.com/kush-agra-soni/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kush-agra-soni&theme=high-contrast" alt="GitHub Activity Graph" width="100%"/>
+</a>
