@@ -35,7 +35,6 @@
 [![Polars](https://img.shields.io/badge/Polars-2BBCD3?style=plastic&logo=polars&logoColor=white)](https://www.pola.rs/)
 [![ONNX](https://img.shields.io/badge/ONNX-000000?style=plastic&logo=onnx&logoColor=white)](https://onnx.ai/)
 [![Optuna](https://img.shields.io/badge/Optuna-EE5C23?style=plastic&logo=optuna&logoColor=white)](https://optuna.org/)
-[![Ray](https://img.shields.io/badge/Ray-F4C20D?style=plastic&logo=rayproject&logoColor=black)](https://www.ray.io/)
 [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-FF69B4?style=plastic&logo=gradio&logoColor=white)](https://gradio.app/)
 [![LangChain](https://img.shields.io/badge/LangChain-4B0082?style=plastic&logo=langchain&logoColor=white)](https://www.langchain.com/)
