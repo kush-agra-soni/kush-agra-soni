@@ -1,4 +1,4 @@
-<h2 align="center"> ♦ About this guy in "BLUE" suit <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="30" width="30" alt="ks" /> </h2>
+<h1 align="center"> ♦ About this guy in "BLUE" suit <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="30" width="30" alt="ks" /> </h1>
 
 - Right now, learning new tech everyday because the moment you got comfortable you will get smacked with a stick.
 - Ask me about Data "I ignore 99% of messages faster than recruiters did ignore resumes but i will surely reply yours".
