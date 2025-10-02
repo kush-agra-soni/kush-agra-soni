@@ -7,6 +7,8 @@
 - My brain is busy with LLMs — in AI, “large” isn’t a flex, it’s survival. Anyone who says otherwise is probably debugging regex.
 - *My theory:* AI isn’t stealing jobs from mechanics or painters — if you’re scared, learn mortar mixing instead of posting panic threads.
 
+![Alt Text](https://tenor.com/view/server-is-fine-burn-fire-spongebob-blow-gif-14178373)
+
 ---
 
 # 모 Tech Stack
