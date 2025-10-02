@@ -1,11 +1,11 @@
 # ♦ About this guy in "BLUE" suit
 
 - Right now, learning new tech everyday because the moment you got comfortable you will get smacked with a stick.
-- My bigger dream is an AI OS (SLM) that doesn’t just reply, but actually *behaves*. No half-messages, no misaligned nonsense.
 - Ask me about Data "I ignore 99% of messages faster than recruiters did ignore resumes but i will surely reply yours".
-- Currently my brain is busy with LLMs — because in AI, “large” isn’t a flex, it’s survival. Size matters here and anyone who says otherwise is probably debugging regex.
-- I am working with building personal AI models. Everyone’s brain is messy and your tech should sync with that chaos instead of normalizing it like some corporate chatbot.
-*My theory:* AI isn’t stealing jobs from mechanics, painters or the guy swinging a hammer on-site so if you’re scared of AI, maybe start learning mortar mixing instead of posting AI panic threads.
+- My bigger dream is an AI OS (SLM) that doesn’t just reply, but actually *behaves*. No half-messages, no misaligned nonsense.
+- I am building personal AI SLM coz your brain is messy, and tech should match the chaos, not sanitize it like a corporate bot.
+- My brain is busy with LLMs — in AI, “large” isn’t a flex, it’s survival. Anyone who says otherwise is probably debugging regex.
+*My theory:* AI isn’t stealing jobs from mechanics or painters — if you’re scared, learn mortar mixing instead of posting panic threads.
 
 ---
 
