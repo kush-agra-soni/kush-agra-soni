@@ -40,9 +40,17 @@
 [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-FF69B4?style=plastic&logo=gradio&logoColor=white)](https://gradio.app/)
 [![LangChain](https://img.shields.io/badge/LangChain-4B0082?style=plastic&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![FastAI](https://img.shields.io/badge/FastAI-0055FF?style=plastic&logo=fastai&logoColor=white)](https://www.fast.ai/)
-[![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/)
+[![JAX](https://img.shields.io/badge/JAX-007FFF?style=plastic&logo=googlejax&logoColor=white)](https://jax.readthedocs.io/)
+[![TensorRT](https://img.shields.io/badge/TensorRT-FF6600?style=plastic&logo=nvidia&logoColor=white)](https://developer.nvidia.com/tensorrt)
+[![TorchScript](https://img.shields.io/badge/TorchScript-EE4C2C?style=plastic&logo=pytorch&logoColor=white)](https://pytorch.org/docs/stable/jit.html)
+[![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-633BBC?style=plastic&logo=wandb&logoColor=white)](https://wandb.ai/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-0099FF?style=plastic&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
+[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=plastic&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery)
+[![DuckDB](https://img.shields.io/badge/DuckDB-0033CC?style=plastic&logo=duckdb&logoColor=white)](https://duckdb.org/)
+[![LangChain Agents](https://img.shields.io/badge/LangChain%20Agents-8A2BE2?style=plastic&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF4500?style=plastic&logo=llama&logoColor=white)](https://gpt-index.readthedocs.io/en/latest/)
+
 
 <br/>
 
