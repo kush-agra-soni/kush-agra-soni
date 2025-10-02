@@ -6,25 +6,18 @@
 - I am building personal AI SLM coz your brain is messy, and tech should match the chaos, not sanitize it like a corporate bot.
 - My brain is busy with LLMs — in AI, “large” isn’t a flex, it’s survival. Anyone who says otherwise is probably debugging regex.
 
+---
 
-<img src="https://media1.tenor.com/m/qg324pNzm50AAAAC/server-is-fine-burn.gif" style="max-width:100%; height:auto;">
-
-  
 <table>
 <tr>
 <td width="50%" align="center">
-
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1sbWFzaHR5emp0cXd3MmQzeDN1MXgwZDZ0Y3hrb21yN2hzMzNjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r2mtDhlCkUsjtHS7lU/giphy.gif" style="max-width:100%; height:auto;">
-
 </td>
 <td width="50%" valign="middle">
-
 *My theory:* AI won’t steal jobs from the mechanic, wall painters or the construction worker who's swinging a hammer. If you’re panicking about it, maybe take a break from scrolling LinkedIn's doom threads and pick up some mortar/paint brushes or may be a wrench. Trust me you will be safer this way -- AI will never replace you. PEACE OUT
-
 </td>
 </tr>
 </table>
-
 
 ---
 
