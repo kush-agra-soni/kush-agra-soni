@@ -6,6 +6,9 @@
 - I am building personal AI SLM coz your brain is messy, and tech should match the chaos, not sanitize it like a corporate bot.
 - My brain is busy with LLMs — in AI, “large” isn’t a flex, it’s survival. Anyone who says otherwise is probably debugging regex.
 
+
+<img src="https://media1.tenor.com/m/qg324pNzm50AAAAC/server-is-fine-burn.gif" style="max-width:100%; height:auto;">
+
   
 <table>
 <tr>
