@@ -6,8 +6,6 @@
 - I am building personal AI SLM coz your brain is messy, and tech should match the chaos, not sanitize it like a corporate bot.
 - My brain is busy with LLMs — in AI, “large” isn’t a flex, it’s survival. Anyone who says otherwise is probably debugging regex.
 
----
-
 <table>
 <tr>
 <td width="50%" align="center">
@@ -57,13 +55,24 @@
 [![DuckDB](https://img.shields.io/badge/DuckDB-0033CC?style=plastic&logo=duckdb&logoColor=white)](https://duckdb.org/)
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF4500?style=plastic&logo=llama&logoColor=white)](https://gpt-index.readthedocs.io/en/latest/)
 
-
 <br/>
 
 # </> GitHub Stats
-| | |
-| :--- | :--- |
-| ![](https://github-readme-stats.vercel.app/api?username=kush-agra-soni&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/> | ![](https://nirzak-streak-stats.vercel.app/?user=kush-agra-soni&theme=blueberry&hide_border=false)<br/> | 
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kush-agra-soni&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width:100%; height:auto;">
+</td>
+<td width="50%" align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=kush-agra-soni&theme=blueberry&hide_border=false" alt="Streak Stats" style="max-width:100%; height:auto;">
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
 
 <br/>
 
