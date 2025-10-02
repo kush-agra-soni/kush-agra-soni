@@ -30,7 +30,7 @@
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)](https://www.sqlite.org/) 
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)](https://mlflow.org/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FE9920?style=plastic&logo=huggingface&logoColor=white)](https://huggingface.co/)  
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FE9920?style=plastic&logo=huggingface&logoColor=white)](https://huggingface.co/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
 [![Polars](https://img.shields.io/badge/Polars-2BBCD3?style=plastic&logo=polars&logoColor=white)](https://www.pola.rs/)  
 [![ONNX](https://img.shields.io/badge/ONNX-000000?style=plastic&logo=onnx&logoColor=white)](https://onnx.ai/)  
