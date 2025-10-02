@@ -5,7 +5,7 @@
 - My bigger dream is an AI OS (SLM) that doesn’t just reply, but actually *behaves*. No half-messages, no misaligned nonsense.
 - I am building personal AI SLM coz your brain is messy, and tech should match the chaos, not sanitize it like a corporate bot.
 - My brain is busy with LLMs — in AI, “large” isn’t a flex, it’s survival. Anyone who says otherwise is probably debugging regex.
-*My theory:* AI isn’t stealing jobs from mechanics or painters — if you’re scared, learn mortar mixing instead of posting panic threads.
+- *My theory:* AI isn’t stealing jobs from mechanics or painters — if you’re scared, learn mortar mixing instead of posting panic threads.
 
 ---
 
