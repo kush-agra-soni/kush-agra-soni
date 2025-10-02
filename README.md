@@ -1,14 +1,14 @@
 # ♦ About this guy in "BLUE" suit
 
-| **--head--** | **--body--** |
-| :--- | :--- |
-| **Cooking:** | Currently spamming my head with LLMs — because when it comes to tech, "Large" always gets attention. Size matters bro and in AI, it's non-negotiable. |
-| **Help me:** | Building "personal" offline AI models. Everyone’s brain is messy in its own way — your tech should match your madness levels, not sterilize it like some corporate chatbot. |
-| **Aims:** | Trying to build AI OS that can actually match with you and behave, instead of throwing misaligned & half msgs just like your juniors did in LinkedIn DMs. |
-| **Working:** | Grinding through OpenPyXL and LightGBM because in tech, the second you get comfortable, it’s already shoving a stick up your legacy stack. |
-| **After beep:** | Ask me about Data Science. I ignore 99% of messages faster than a recruiter closes your resume tab. But if you sound human, I'll actually read it. |
-| **Factz:** | AI ain’t stealing jobs from mechanics, painters or the badass construction worker swinging a hammer. So if you scared of AI then maybe start learning about mortar mixing instead of whining on Linkedin
-<br/>
+- Right now, learning new tech everyday because the moment you got comfortable you will get smacked with a stick.
+- My bigger dream is an AI OS (SLM) that doesn’t just reply, but actually *behaves*. No half-messages, no misaligned nonsense.
+- Ask me about Data "I ignore 99% of messages faster than recruiters did ignore resumes but i will surely reply yours".
+- Currently my brain is busy with LLMs — because in AI, “large” isn’t a flex, it’s survival. Size matters here and anyone who says otherwise is probably debugging regex.
+- I am working with building personal AI models. Everyone’s brain is messy and your tech should sync with that chaos instead of normalizing it like some corporate chatbot.
+*My theory:* AI isn’t stealing jobs from mechanics, painters or the guy swinging a hammer on-site so if you’re scared of AI, maybe start learning mortar mixing instead of posting AI panic threads.
+
+---
+
 
 # 모 Tech Stack
 
