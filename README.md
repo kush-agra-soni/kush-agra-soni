@@ -16,7 +16,7 @@
 </td>
 <td width="50%" valign="middle">
 
-*My theory:* AI isn’t stealing jobs from mechanics or painters — if you’re scared, learn mortar mixing instead of posting panic threads.
+*My theory:* AI won’t steal jobs from the mechanic, the painter, or the construction worker swinging a hammer. If you’re panicking about it, maybe take a break from scrolling LinkedIn doom threads and pick up mortar, paintbrushes, or a wrench — the real skills that machines can’t replace.
 
 </td>
 </tr>
