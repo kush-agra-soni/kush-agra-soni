@@ -12,7 +12,8 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1sbWFzaHR5emp0cXd3MmQzeDN1MXgwZDZ0Y3hrb21yN2hzMzNjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r2mtDhlCkUsjtHS7lU/giphy.gif" style="max-width:100%; height:auto;">
 </td>
 <td width="50%" valign="middle">
-*My theory:* AI won’t steal jobs from the mechanic, wall painters or the construction worker who's swinging a hammer. If you’re panicking about it, maybe take a break from scrolling LinkedIn's doom threads and pick up some mortar/paint brushes or may be a wrench. Trust me you will be safer this way -- AI will never replace you. PEACE OUT
+  
+*My theory:* AI won’t steal jobs from the mechanic, wall painters or the construction worker who's swinging a hammer. If you’re panicking about it, maybe take a break from scrolling LinkedIn's doom threads and pick up some mortar/paint brushes or may be a wrench. Trust me, you will be safer this way -- AI will never replace you.  --PEACE--
 </td>
 </tr>
 </table>
