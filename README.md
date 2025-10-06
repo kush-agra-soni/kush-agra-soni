@@ -2,9 +2,9 @@
 
 - Right now, learning new tech everyday because the moment you got comfortable you will get smacked with a stick.
 - Ask me about Data "I ignore 99% of messages faster than recruiters did ignore resumes but i will surely reply yours".
-- My bigger dream is an AI OS that doesn’t just reply, but actually *behaves*. No half-messages, no misaligned nonsense.
 - I am building personal AI SLM coz your brain is messy, and tech should match the chaos, not sanitize it like a corporate bot.
 - My brain is busy with LLMs — in AI, “large” isn’t a flex, it’s survival. Anyone who says otherwise is probably debugging regex.
+- My bigger dream is an AI OS that will learn from communication, using patterns and what not - making your gadgets personalized just the way you are. 
 
 <table>
 <tr>
