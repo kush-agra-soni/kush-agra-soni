@@ -1,10 +1,35 @@
-<h1 align="center"> ♦ About this guy in "BLUE" suit <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="30" width="30" alt="ks" /> </h1>
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:1a1a1a&height=220&section=header&text=KUSHAGRA%20SONI&fontSize=62&fontColor=e6e6e6&fontAlignY=38&desc=the%20guy%20in%20the%20BLACK%20suit&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+</p>
 
-- Right now, learning new tech everyday because the moment you got comfortable you will get smacked with a stick.
-- Ask me about Data "I ignore 99% of messages faster than recruiters did ignore resumes but i will surely reply yours".
-- I am building personal AI SLM coz your brain is messy, and tech should match the chaos, not sanitize it like a corporate bot.
-- My brain is busy with LLMs — in AI, “large” isn’t a flex, it’s survival. Anyone who says otherwise is probably debugging regex.
-- My bigger dream is an AI OS that will learn from communication, using patterns and what not - making your gadgets personalized.
+<p align="center">
+  <a href="https://github.com/kush-agra-soni">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00FFC6&center=true&vCenter=true&width=720&lines=%3E+running+a+35B+model+on+a+10GB+GPU;%3E+building+agents%2C+crawlers%2C+RAG+and+OCR+systems;%3E+local-first+AI.+no+cloud+bill.+no+excuses.;%3E+next+stop%3A+an+AI+OS+that+actually+knows+you" alt="typing"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFC6?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/FOCUS-LOCAL%20LLMs-ffffff?style=for-the-badge&labelColor=000000"/>
+  <img src="https://komarev.com/ghpvc/?username=kush-agra-soni&label=VISITORS&color=000000&style=for-the-badge"/>
+</p>
+
+---
+
+```bash
+kush@blacksuit:~$ whoami
+> AI engineer who refuses to rent intelligence by the token.
+
+kush@blacksuit:~$ cat mindset.txt
+> The moment you get comfortable, tech smacks you with a stick. So I keep learning.
+> I ignore 99% of messages faster than recruiters ignore resumes. Yours I'll answer.
+> In AI, "large" isn't a flex, it's survival. Anyone who disagrees is debugging regex.
+
+kush@blacksuit:~$ cat mission.txt
+> Personal SLMs that match your chaos instead of sanitizing it like a corporate bot.
+> Long game: an AI OS that learns from how you communicate and personalizes every device.
+```
 
 <table>
 <tr>
@@ -20,53 +45,82 @@
 
 ---
 
-# 모 Tech Stack
+## `[01]` Flagship
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)](https://www.python.org/) 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/) 
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)](https://keras.io/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)](https://numpy.org/) 
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)](https://matplotlib.org/) 
-[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)](https://scipy.org/) 
-[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)](https://plotly.com/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/) 
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)](https://git-scm.com/) 
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)](https://github.com/features/actions) 
-[![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)](https://www.sqlite.org/) 
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)](https://mlflow.org/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FE9920?style=plastic&logo=huggingface&logoColor=white)](https://huggingface.co/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Polars](https://img.shields.io/badge/Polars-2BBCD3?style=plastic&logo=polars&logoColor=white)](https://www.pola.rs/)
-[![ONNX](https://img.shields.io/badge/ONNX-000000?style=plastic&logo=onnx&logoColor=white)](https://onnx.ai/)
-[![Optuna](https://img.shields.io/badge/Optuna-EE5C23?style=plastic&logo=optuna&logoColor=white)](https://optuna.org/)
-[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
-[![Gradio](https://img.shields.io/badge/Gradio-FF69B4?style=plastic&logo=gradio&logoColor=white)](https://gradio.app/)
-[![LangChain](https://img.shields.io/badge/LangChain-4B0082?style=plastic&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![FastAI](https://img.shields.io/badge/FastAI-0055FF?style=plastic&logo=fastai&logoColor=white)](https://www.fast.ai/)
-[![TorchScript](https://img.shields.io/badge/TorchScript-EE4C2C?style=plastic&logo=pytorch&logoColor=white)](https://pytorch.org/docs/stable/jit.html)
-[![Snowflake](https://img.shields.io/badge/Snowflake-0099FF?style=plastic&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
-[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=plastic&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery)
-[![DuckDB](https://img.shields.io/badge/DuckDB-0033CC?style=plastic&logo=duckdb&logoColor=white)](https://duckdb.org/)
-[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF4500?style=plastic&logo=llama&logoColor=white)](https://gpt-index.readthedocs.io/en/latest/)
+<table>
+<tr>
+<td>
 
-# </> GitHub Stats
+### [36b-on-10gb](https://github.com/kush-agra-soni/36b-on-10gb)
+**Qwen3.6-35B-A3B running on an RX 6700 with 10 GB of VRAM**, a GPU ROCm doesn't even officially support.
 
-| GitHub Stats | Streak Stats |
-| :---: | :---: |
-| ![](https://github-readme-stats.vercel.app/api?username=kush-agra-soni&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=kush-agra-soni&theme=blueberry&hide_border=false) |
+| Metric | Result |
+| :-- | :-- |
+| Context | **64k tokens** |
+| Speed | **~17 tok/s** (up from ~1 tok/s) |
+| HumanEval+ / MBPP+ | **87.2 / 77.5** |
+| Agent reliability | **98 Cline requests, 0 errors** |
+| Extras | Vision input, private access over Tailscale |
 
-# ♠ GitHub Trophies
+</td>
+</tr>
+</table>
 
-![](https://github-profile-trophy.vercel.app/?username=kush-agra-soni&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+## `[02]` Systems I've built
 
-# ⌗ GitHub Graph
-<a href="https://github.com/kush-agra-soni/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kush-agra-soni&theme=high-contrast" alt="GitHub Activity Graph" width="100%"/>
-</a>
+| Repo | What it does |
+| :-- | :-- |
+| [agent-hub](https://github.com/kush-agra-soni/agent-hub) | Multi-agent orchestration with tool use, tracing and reliability checks |
+| [ai-web-crawler](https://github.com/kush-agra-soni/ai-web-crawler) | Headless crawler that extracts clean content and structures it with an LLM |
+| [doc-intelligence-hub](https://github.com/kush-agra-soni/doc-intelligence-hub) | OCR pipeline that routes hard pages to a vision model automatically |
+| [rag-chat-hub](https://github.com/kush-agra-soni/rag-chat-hub) | Hybrid BM25 + embedding search with reranking and cited answers |
+| [tabular-ml-platform](https://github.com/kush-agra-soni/tabular-ml-platform) | Train, monitor drift and promote models through a champion/challenger gate |
+| [image-ai-platform](https://github.com/kush-agra-soni/image-ai-platform) | Generation, upscaling, detection and classification in one local app |
+
+> Every project ships with a FastAPI backend, a Streamlit UI and a one-click launcher. Runs locally, end to end.
+
+## `[03]` Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,linux,postgres,mysql,sqlite,js&theme=dark&perline=12"/>
+</p>
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat-square&logo=meta&logoColor=white)
+![ROCm](https://img.shields.io/badge/ROCm-000000?style=flat-square&logo=amd&logoColor=ED1C24)
+![ONNX](https://img.shields.io/badge/ONNX-000000?style=flat-square&logo=onnx&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![Gradio](https://img.shields.io/badge/Gradio-000000?style=flat-square&logo=gradio&logoColor=F97316)
+![Polars](https://img.shields.io/badge/Polars-000000?style=flat-square&logo=polars&logoColor=CD792C)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Optuna](https://img.shields.io/badge/Optuna-000000?style=flat-square&logo=optuna&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-000000?style=flat-square&logo=mlflow&logoColor=0194E2)
+![Airflow](https://img.shields.io/badge/Airflow-000000?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+![DuckDB](https://img.shields.io/badge/DuckDB-000000?style=flat-square&logo=duckdb&logoColor=FFF000)
+![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat-square&logo=snowflake&logoColor=29B5E8)
+![BigQuery](https://img.shields.io/badge/BigQuery-000000?style=flat-square&logo=googlebigquery&logoColor=4285F4)
+![Playwright](https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=2EAD33)
+![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white)
+
+## `[04]` Telemetry
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kush-agra-soni&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FFC6&icon_color=00FFC6&text_color=d0d0d0"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kush-agra-soni&hide_border=true&background=000000&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6&sideLabels=d0d0d0&currStreakNum=ffffff&sideNums=ffffff&dates=777777&stroke=222222"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/00FFC6/kush-agra-soni" alt="contribution chart"/>
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=kush-agra-soni&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:0d0d0d,100:000000&height=120&section=footer" width="100%" alt="footer"/>
+</p>
