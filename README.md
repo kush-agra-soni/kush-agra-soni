@@ -29,7 +29,7 @@ kush@blacksuit:~$ cat mindset.txt
 
 kush@blacksuit:~$ cat mission.txt
 > Building personal AI that adapts to you—not the other way around.
-> The long game: an AI operating system that learns how you think, communicate, and work, then makes every device feel like yours.
+> The long game: an AI OS that learns how you think, communicate, work and makes every device feel like yours.
 ```
 
 <table>
