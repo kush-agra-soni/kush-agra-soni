@@ -22,13 +22,14 @@ kush@blacksuit:~$ whoami
 > AI engineer who refuses to rent intelligence by the token.
 
 kush@blacksuit:~$ cat mindset.txt
-> The moment you get comfortable, tech smacks you with a stick. So I keep learning.
-> I ignore 99% of messages faster than recruiters ignore resumes. Yours I'll answer.
-> In AI, "large" isn't a flex, it's survival. Anyone who disagrees is debugging regex.
+> Comfort is the fastest way to fall behind. So I always keep building.
+> I value signal over noise. Bring me an interesting problem, and I'm listening.
+> Bigger models aren't always smarter. Better systems are.
+
 
 kush@blacksuit:~$ cat mission.txt
-> Personal SLMs that match your chaos instead of sanitizing it like a corporate bot.
-> Long game: an AI OS that learns from how you communicate and personalizes every device.
+> Building personal AI that adapts to you—not the other way around.
+> The long game: an AI operating system that learns how you think, communicate, and work, then makes every device feel like yours.
 ```
 
 <table>
@@ -45,41 +46,7 @@ kush@blacksuit:~$ cat mission.txt
 
 ---
 
-## `[01]` Flagship
-
-<table>
-<tr>
-<td>
-
-### [36b-on-10gb](https://github.com/kush-agra-soni/36b-on-10gb)
-**Qwen3.6-35B-A3B running on an RX 6700 with 10 GB of VRAM**, a GPU ROCm doesn't even officially support.
-
-| Metric | Result |
-| :-- | :-- |
-| Context | **64k tokens** |
-| Speed | **~17 tok/s** (up from ~1 tok/s) |
-| HumanEval+ / MBPP+ | **87.2 / 77.5** |
-| Agent reliability | **98 Cline requests, 0 errors** |
-| Extras | Vision input, private access over Tailscale |
-
-</td>
-</tr>
-</table>
-
-## `[02]` Systems I've built
-
-| Repo | What it does |
-| :-- | :-- |
-| [agent-hub](https://github.com/kush-agra-soni/agent-hub) | Multi-agent orchestration with tool use, tracing and reliability checks |
-| [ai-web-crawler](https://github.com/kush-agra-soni/ai-web-crawler) | Headless crawler that extracts clean content and structures it with an LLM |
-| [doc-intelligence-hub](https://github.com/kush-agra-soni/doc-intelligence-hub) | OCR pipeline that routes hard pages to a vision model automatically |
-| [rag-chat-hub](https://github.com/kush-agra-soni/rag-chat-hub) | Hybrid BM25 + embedding search with reranking and cited answers |
-| [tabular-ml-platform](https://github.com/kush-agra-soni/tabular-ml-platform) | Train, monitor drift and promote models through a champion/challenger gate |
-| [image-ai-platform](https://github.com/kush-agra-soni/image-ai-platform) | Generation, upscaling, detection and classification in one local app |
-
-> Every project ships with a FastAPI backend, a Streamlit UI and a one-click launcher. Runs locally, end to end.
-
-## `[03]` Stack
+## `[01]` Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,linux,postgres,mysql,sqlite,js&theme=dark&perline=12"/>
@@ -105,7 +72,7 @@ kush@blacksuit:~$ cat mission.txt
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=2EAD33)
 ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white)
 
-## `[04]` Telemetry
+## `[02]` Telemetry
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kush-agra-soni&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FFC6&icon_color=00FFC6&text_color=d0d0d0"/>
