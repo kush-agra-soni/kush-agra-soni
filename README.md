@@ -1,11 +1,8 @@
 <!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:1a1a1a&height=220&section=header&text=KUSHAGRA%20SONI&fontSize=62&fontColor=e6e6e6&fontAlignY=38&desc=the%20guy%20in%20the%20BLACK%20suit&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/kush-agra-soni">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00FFC6&center=true&vCenter=true&width=720&lines=%3E+running+a+35B+model+on+a+10GB+GPU;%3E+building+agents%2C+crawlers%2C+RAG+and+OCR+systems;%3E+local-first+AI.+no+cloud+bill.+no+excuses.;%3E+next+stop%3A+an+AI+OS+that+actually+knows+you" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00FFC6&center=true&vCenter=true&width=720&height=32&lines=%3E+running+a+35B+model+on+a+10GB+GPU;%3E+building+agents%2C+crawlers%2C+RAG+and+OCR+systems;%3E+local-first+AI.+no+cloud+bill.+no+excuses.;%3E+next+stop%3A+an+AI+OS+that+actually+knows+you" alt="typing"/>
   </a>
 </p>
 
