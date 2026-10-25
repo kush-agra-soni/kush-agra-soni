@@ -48,16 +48,23 @@ kush@blacksuit:~$ cat mission.txt
 
 ## `[01]` Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,linux,postgres,mysql,sqlite,js&theme=dark&perline=12"/>
-</p>
-
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFD43B)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=78C8F0)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat-square&logo=meta&logoColor=white)
 ![ROCm](https://img.shields.io/badge/ROCm-000000?style=flat-square&logo=amd&logoColor=ED1C24)
 ![ONNX](https://img.shields.io/badge/ONNX-000000?style=flat-square&logo=onnx&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=FF4B4B)
 ![Gradio](https://img.shields.io/badge/Gradio-000000?style=flat-square&logo=gradio&logoColor=F97316)
 ![Polars](https://img.shields.io/badge/Polars-000000?style=flat-square&logo=polars&logoColor=CD792C)
@@ -69,7 +76,7 @@ kush@blacksuit:~$ cat mission.txt
 ![DuckDB](https://img.shields.io/badge/DuckDB-000000?style=flat-square&logo=duckdb&logoColor=FFF000)
 ![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat-square&logo=snowflake&logoColor=29B5E8)
 ![BigQuery](https://img.shields.io/badge/BigQuery-000000?style=flat-square&logo=googlebigquery&logoColor=4285F4)
-![Playwright](https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=2EAD33)
+![Pytest](https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=pytest&logoColor=0A9EDC)
 ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white)
 
 ## `[02]` Telemetry
