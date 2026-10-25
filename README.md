@@ -26,7 +26,6 @@ kush@blacksuit:~$ cat mindset.txt
 > I value signal over noise. Bring me an interesting problem, and I'm listening.
 > Bigger models aren't always smarter. Better systems are.
 
-
 kush@blacksuit:~$ cat mission.txt
 > Building personal AI that adapts to you—not the other way around.
 > The long game: an AI OS that learns how you think, communicate, work and makes every device feel like yours.
